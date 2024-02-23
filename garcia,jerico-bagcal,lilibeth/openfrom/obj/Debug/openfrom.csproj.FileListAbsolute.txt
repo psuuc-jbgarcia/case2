@@ -1,0 +1,13 @@
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\bin\Debug\openfrom.exe.config
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\bin\Debug\openfrom.exe
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\bin\Debug\openfrom.pdb
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.csproj.AssemblyReference.cache
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.Form2.resources
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.Properties.Resources.resources
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.csproj.GenerateResource.cache
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.csproj.CoreCompileInputs.cache
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.exe
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.pdb
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.Form3.resources
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.mainform.resources
+C:\Users\psuur\Documents\garcia,jerico-bagcal,lilibeth\openfrom\obj\Debug\openfrom.Form4.resources
